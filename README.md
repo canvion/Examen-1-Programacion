@@ -52,3 +52,49 @@ str()
 len()
 in
 range()
+
+📄 Enunciat de l'examen
+
+Desenvolupa una aplicació amb Python per gestionar una classificació d’equips i puntuacions.
+Pots utilitzar l'IDE que prefereixis.
+
+🎯 Objectiu:
+Crear un menú interactiu (1 punt – CProf 2) amb diverses opcions que executin una o més de les funcions següents:
+
+🔧 Funcions obligatòries
+
+newTeam(...) – (1 punt – CProf 3)
+Afegeix un nou equip a la classificació.
+La seva puntuació inicial serà 0 punts.
+No cal comprovar si l’equip ja existeix.
+
+updateTeam(...) – (2 punts – CProf 3)
+Modifica la puntuació d’un equip existent.
+L’usuari ha d’introduir:
+
+La posició de l’equip
+La nova puntuació
+Només cal validar que la posició sigui vàlida.
+
+deleteTeam(...) – (3 punts – CProf 3)
+Permet eliminar un equip de la classificació.
+L’usuari introdueix la seva posició.
+Només cal validar que la posició sigui vàlida.
+
+updateLeague(...) – (4 punts – CProf 3)
+Ordena la classificació de major a menor puntuació.
+
+viewLeague(...) – (2 punts – CProf 2)
+Mostra la classificació ordenada de major a menor
+amb un format clar i llegible.
+
+📤 Entrega de l’examen
+
+📁 Format:
+Un únic fitxer Python .py amb tot el codi.
+📄 Nom del fitxer:
+Cognom1Cognom2Nom.py
+🖥 Plataforma:
+Puja el fitxer al Google Classroom dins del termini establert.
+⚠️ Important:
+NO es corregirà cap examen que no s’entregui en les condicions establertes.
